@@ -17,9 +17,9 @@ Chaque chapitre est publié ici au fur et à mesure, avec un post d'accompagneme
 ## Sommaire
 
 ### Lab 0 — Les prémices
-- [Définir le projet](./docs/lab-0/definir-le-projet.md)
-- [Gouvernance](./docs/lab-0/gouvernance.md)
-- [Cartographie des données](./docs/lab-0/cartographie-donnees.md)
+- [Définir le projet](./docs/lab-0-premices/definir-le-projet.md)
+- [Gouvernance](./docs/lab-0-premices/gouvernance.md)
+- [Cartographie des données](./docs/lab-0-premices/cartographie-donnees.md)
 
 ### Chapitres
 
