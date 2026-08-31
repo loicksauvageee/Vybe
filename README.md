@@ -12,7 +12,7 @@ Cadre réglementaire pris en compte : PSD2, licence e-money (EMD2), AML/KYC, RGP
 
 ## Suivre le projet
 
-Chaque chapitre est publié ici au fur et à mesure, avec un post d'accompagnement sur [LinkedIn](#).
+Chaque chapitre est publié ici au fur et à mesure, avec un post d'accompagnement sur [LinkedIn](#https://www.linkedin.com/in/lo%C3%AFck-sauvage/).
 
 ## Sommaire
 
